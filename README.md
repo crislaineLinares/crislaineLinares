@@ -1,14 +1,11 @@
 
-💻 Apaixonada pelo mundo da tecnologia.
-
-
-👋 Olá! Bem-vindo
+ 👋 Olá! Bem-vindo
 
 👀 Interessada em compartilhar conhecimento
 
-🌱 Aprofundando conhecimentos em Node e React.js
+🌱 Aprofundando conhecimentos em Node.js e React
 
-💞️ Disponível para colaborar em projetos
+💻 Disponível para colaborar em projetos
 
 
 
